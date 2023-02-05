@@ -2,7 +2,7 @@
 //  lab3Tests.swift
 //  lab3Tests
 //
-//  Created by Danesh Zhao-Graham on 2023-02-05.
+//  Created by Elizaveta Vygovskaia on 2023-02-05.
 //
 
 import XCTest
