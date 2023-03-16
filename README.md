@@ -1,3 +1,3 @@
 # Mobile Development II 
-## using Swift
+## Lab exercise using Swift and Storyboard
 Simple calculator created to learn basics of the language
